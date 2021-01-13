@@ -1,0 +1,8 @@
+atas = 1E4A74
+tengah = 163353
+bawah = 132B47
+
+textbox = 152233
+
+sign in = 4F4F4F
+forgot = AEA588
